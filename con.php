@@ -1,6 +1,7 @@
 <?php
 
 /*
+hi from github
 $algo = $_GET['algo'];
 $nume = $_GET['numero'];
 echo $algo.$nume;*/
